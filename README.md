@@ -15,7 +15,7 @@
 
 ### MY SOCIAL MEDIA
 * [<img alt="Yayan-XD's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Yayan-XD)<br />
-* [<img alt="Yayan-XD's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/YAYAN.XING.ZUCKERBERG.SR)<br />
+* [<img alt="Yayan-XD's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/KM39453)<br />
 * [<img alt="Yayan-XD's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://api.whatsapp.com/send/?phone=%2B6285603036683&text&app_absent=0)<br />
 * [<img alt="Yayan-XD's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/yayanxd_)<br />
 
