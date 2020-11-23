@@ -1,7 +1,4 @@
-<h1 align="center">
-    💀Selamat datang di github aing💀
-</h1>
-
+![template_s](https://github.com/Yayan-XD/Yayan-XD/blob/master/Ng3nt0d.jpg)
 <h4 align="center">
    jangan lupa follow tekan bintang ok😀👍
 </h4 aling="center">
