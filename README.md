@@ -17,7 +17,7 @@ ___
 
 Wanna Hire Me ? 
 
-Contact : abdulmuttaqin456@gmail.com
+Contact : yayanxd.123@gmail.com
 
 
 # Donate 
