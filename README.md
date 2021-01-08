@@ -34,4 +34,4 @@ Donate me on  <a href="https://saweria.co/YayanXD">HERE!</a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storiku&layout=compact" alt="Top language">
 
-![template_s](https://user-images.githubusercontent.com/52023076/93980625-b4ff2180-fd33-11ea-873d-9570cbdd30e9.gif)
+![template_s](https://github.com/Yayan-XD/Yayan-XD/blob/master/img/wallpaperbetter_(1).jpg)
