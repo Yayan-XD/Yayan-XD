@@ -4,7 +4,7 @@
 
 * MY SOCIAL MEDIA :
 
-<a href="https://www.facebook.com/KM39453"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp; <a href="https://instagram.com/@yayanxd"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a> 
+<a href="https://www.facebook.com/KM39453"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a> &nbsp;&nbsp; <a href="https://Instagram.com/yayanxd_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a> 
 <a href="https://wa.me/6285603036683?text=Asalamualaikum+bang"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
  &nbsp;&nbsp; <a href="https://twitter.com/moch_xd"><img src="https://www.flaticon.com/svg/static/icons/svg/124/124021.svg" alt="alt text" width="20" height="20"></a>
 
