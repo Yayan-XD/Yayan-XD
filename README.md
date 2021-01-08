@@ -2,9 +2,9 @@
 <center>
 Connect with me :
 
-<a href="https://fb.me/fdciabdul"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/fdciabdul"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
+<a href="https://www.facebook.com/KM39453"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/@yayanxd"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
  &nbsp;&nbsp; 
-<a href="https://twitter.com/fdciabdul"><img src="https://www.flaticon.com/svg/static/icons/svg/124/124021.svg" alt="alt text" width="20" height="20"></a>
+<a href="https://twitter.com/moch_xd"><img src="https://www.flaticon.com/svg/static/icons/svg/124/124021.svg" alt="alt text" width="20" height="20"></a>
 
 
 
@@ -21,8 +21,9 @@ Contact : yayanxd.123@gmail.com
 
 
 # Donate 
-Donate me on  <a href="https://saweria.co/donate/fdciabdul">HERE!</a>
+Donate me on  <a href="https://saweria.co/YayanXD">HERE!</a>
 , or i will jump like nishimiya >:(
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Yayan-XD&show_icons=true&theme=dark)
 <a href="https://github.com/Yayan-XD/Silent"><img title="SILENT" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Silent&theme=vision-friendly-dark"></a>
