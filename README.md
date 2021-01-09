@@ -21,9 +21,10 @@ Wanna Hire Me ?
 
 Contact : yayanxd.123@gmail.com
 
-
 # Donate
+
 src="https://www.google.com/amp/s/vectrostudio.com/dana-logo-vector/amp/" alt="alt text" width="70" height="70"></a>
+
 Donate me on  <a href="https://saweria.co/YayanXD">HERE!</a>
 , or i will jump like nishimiya >:(
 
