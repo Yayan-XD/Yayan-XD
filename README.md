@@ -23,7 +23,7 @@ Contact : yayanxd.123@gmail.com
 
 # Donate
 
-<a href="https://wa.me/6285603036683?text=Asalamualaikum+bang"><img src="https://www.google.com/amp/s/vectrostudio.com/dana-logo-vector/amp/" alt="alt text" width="70" height="70"></a>
+<a href="https://wa.me/6285603036683?text=Asalamualaikum+bang"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/logo_dana.jpg" alt="alt text" width="70" height="70"></a>
 
 Donate me on  <a href="https://saweria.co/YayanXD">HERE!</a>
 , or i will jump like nishimiya >:(
