@@ -2,7 +2,8 @@
 # NGGK BISA LO RECODE BRUAKAKAK
 
 
-#encrypt by YayanXD
+           #Encrypt By YayanXD
+
 #GITHUB    : https://github.com/Yayan-XD
 #FACEBOOK  : https://www.facebook.com/KM39453
 #INSTAGRAM : @yayanxd_
