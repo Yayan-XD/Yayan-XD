@@ -6,7 +6,7 @@
 
 <a href="https://Instagram.com/yayanxd_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a> 
 <a href="https://wa.me/6285603036683?text=Asalamualaikum+bang"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
-<a href="https://www.facebook.com/KM39453"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a> <a href="https://squadcyberpeopleteam.blogspot.com/?m=1"><img src="https://raw.githubusercontent.com/darknethaxor/picture/main/PinClipart.com_omega-psi-phi-clip_1414856.png" alt="alt text" width="20" height="20"></a> <a href="https://youtube.com/channel/UCS7oHOu5H6nZbSmxSfnT56A"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/youtube.png" alt="alt text" width="20" height="20"></a> 
+<a href="https://www.facebook.com/KM39453"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a> <a href="https://squadcyberpeopleteam.blogspot.com/?m=1"><img src="https://raw.githubusercontent.com/darknethaxor/picture/main/PinClipart.com_omega-psi-phi-clip_1414856.png" alt="alt text" width="20" height="20"></a> <a href="https://youtube.com/channel/UCS7oHOu5H6nZbSmxSfnT56A"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/youtube.png" alt="alt text" width="20" height="22"></a> 
 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 ___
