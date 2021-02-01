@@ -9,16 +9,14 @@
 <a href="https://www.facebook.com/KM39453"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a> <a href="https://squadcyberpeopleteam.blogspot.com/?m=1"><img src="https://raw.githubusercontent.com/darknethaxor/picture/main/PinClipart.com_omega-psi-phi-clip_1414856.png" alt="alt text" width="20" height="20"></a> <a href="https://youtube.com/channel/UCS7oHOu5H6nZbSmxSfnT56A"><img src="https://raw.githubusercontent.com/darknethaxor/picture/main/images%20(5).png" alt="alt text" width="20" height="20"></a> 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 ___
-_smoking and coffiee_
+_Smoking And Coffiee_
 ___
 
 
 Wanna Hire Me ? 
-
 Contact : yayanxd.123@gmail.com
 
 ### Donate
-
 <a href="https://saweria.co/YayanXD"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="70" height="50"></a>
 
 * Donate me on  <a href="https://saweria.co/YayanXD">HERE!</a>
