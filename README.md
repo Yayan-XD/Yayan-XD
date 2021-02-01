@@ -25,7 +25,7 @@ Contact : yayanxd.123@gmail.com
 * Donate me on  <a href="https://saweria.co/YayanXD">HERE!</a>
 , or i will jump like nishimiya >:(
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Yayan-XD&show_icons=true&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=Yayan-XD&show_icons=true&theme=blue)
 <a href="https://github.com/Yayan-XD/Silent"><img title="SILENT" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Silent&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Yayan-XD/Craker"><img title="CRAKER" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Craker&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Yayan-XD/Cr4ck"><img title="Cr4ck" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Cr4ck&theme=vision-friendly-dark"></a>
