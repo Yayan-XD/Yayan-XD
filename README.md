@@ -18,8 +18,6 @@ Wanna Hire Me ?
 Contact : yayanxd9@gmail.com
 
 ### Donate
-<a href="https://saweria.co/YayanXD"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="70" height="50"></a>
-
 * Donate me on  <a href="https://saweria.co/YayanXD">HERE!</a>
 , or i will jump like nishimiya >:(
 
