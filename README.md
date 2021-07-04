@@ -15,7 +15,7 @@ ___
 
 Wanna Hire Me ? 
 
-Contact : yayanxd9@gmail.com
+Contact : Yayanxd@gmail.com
 
 #### Donate
 
