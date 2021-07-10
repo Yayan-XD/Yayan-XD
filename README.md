@@ -23,8 +23,8 @@ Contact : yayanxd@gmail.com
 , or i will jump like nishimiya >:(
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Yayan-XD&show_icons=true&theme=dark)
-<a href="https://github.com/Yayan-XD/Silent"><img title="SILENT" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Silent&theme=vision-friendly-dark"></a>
-<a href="https://github.com/Yayan-XD/Craker"><img title="CRAKER" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Craker&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Yayan-XD/ymbf"><img title="YMBF" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=ymbft&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Yayan-XD/Brute"><img title="Brute" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Brute&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Yayan-XD/Cr4ck"><img title="Cr4ck" src="https://github-readme-stats.vercel.app/api/pin/?username=Yayan-XD&repo=Cr4ck&theme=vision-friendly-dark"></a>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayan-XD&layout=compact" alt="Top language">
